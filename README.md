@@ -1,4 +1,7 @@
 # Rice-Seed-Classifier
+<b>GUI Version Comming Soon...</b>
+
+<br>
 The Project is About getting seed pic from the farmer using some App and correctly predicting which class the Seed Belong
 <br>
 
